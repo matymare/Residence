@@ -1,9 +1,9 @@
 <a align="center"><img src="https://i.ibb.co/TwC4BhP/ee46fcbf9cc4960ac43d6a31751ee414259a1b86.jpg"></img></a>
 
 
-               **Contributors:** matymare
+**Contributors:** matymare
 
-           **Supports API: 3.0.0/4.0.0/5.0.0**
+**Supports API: 3.0.0/4.0.0/5.0.0**
 
 
 <a align="center"><img src="https://proxy.spigotmc.org/a3c366d368ac84364b9bb23efe023c3fc7bc9d9e?url=http%3A%2F%2Fwww.zrips.net%2Fwp-content%2Fuploads%2F2019%2F02%2Fabout.jpg"></img></a>
