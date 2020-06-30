@@ -39,15 +39,15 @@ Residence includes many features that help server owners to manage protection. T
 
 <a align="center"><img src="https://i.ibb.co/88vMGFs/sketch-1593513822661.png"></img></a>
 
-If you want or need the RESIDENCE plugin, write to me at discord: @Roospy#1666 or join our discord group: https://bit.do/RoospyGang/
+If you want or need the RESIDENCE plugin, write to me at discord: @Roospy#1666 or join our discord group: https://bit.do/RoospyGang
 
 <a align="center"><img src="https://i.ibb.co/gZK8Fzm/CREDITS.png"></img></a>
 
-Original plugin version (spigot): https://bit.do/OriginalResidence/
+Original plugin version (spigot): https://bit.do/OriginalResidence
 
-Original plugin version 2 (bukkit): https://bit.do/OriginalResidence2/
+Original plugin version 2 (bukkit): https://bit.do/OriginalResidence2
 
 # ERRORS AND ADJUSTMENTS
 
-Please write on discord: https://bit.do/RoospyGang/
+Please write on discord: https://bit.do/RoospyGang
                          https://discord.gg/eafNXPr
