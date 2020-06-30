@@ -14,8 +14,7 @@ Residence is different from most protection plugins in that it aims for the user
 <a align="center" href="https://www.youtube.com/watch?v=3tbhWPUFe1c"><img src="http://img.youtube.com/vi/3tbhWPUFe1c/0.jpg"></a>
 
 <a align="center"><img src="https://proxy.spigotmc.org/01757a91e0171c8fc87e56e70f264dd0e92ed6fd?url=http%3A%2F%2Fwww.zrips.net%2Fwp-content%2Fuploads%2F2019%2F02%2Ffeatures.jpg"></img></a>
-
-Residence includes many features that help server owners to manage protection. This includes:
+# Residence includes many features that help server owners to manage protection. This includes:
 
 -> Expand <up/down>
 -> 100% Protection
