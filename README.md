@@ -1,6 +1,5 @@
 <a align="center"><img src="https://i.ibb.co/TwC4BhP/ee46fcbf9cc4960ac43d6a31751ee414259a1b86.jpg"></img></a>
 
-<div align="center">
 
 **Contributors:** matymare
 
@@ -17,7 +16,7 @@ Residence is different from most protection plugins in that it aims for the user
 
 Residence includes many features that help server owners to manage protection. This includes:
 
--> Expand <up/down><br>
+- Expand <up/down><br>
 -> 100% Protection<br>
 -> Multiple players in one residence!<br>
 -> The plugin is compatible with PocketMine-MP.<br>
