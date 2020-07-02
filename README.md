@@ -10,7 +10,7 @@
 
 Residence is different from most protection plugins in that it aims for the users to be able to protect their own homes without having to bother the admin to do it. Residence has support for a variety of different protection types including preventing movement through areas, all of which can be configured by the land owner, and limited by the admin.
 
-<a align="center" href="https://www.youtube.com/watch?v=3tbhWPUFe1c"><img src="http://img.youtube.com/vi/3tbhWPUFe1c/0.jpg"></a>
+<a align="center" href="https://www.youtube.com/watch?v=9fLPG2avaeA&t=9s"><img src="https://i.ibb.co/zVLnKDW/20200702-123440.png"></a>
 
 <a align="center"><img src="https://proxy.spigotmc.org/01757a91e0171c8fc87e56e70f264dd0e92ed6fd?url=http%3A%2F%2Fwww.zrips.net%2Fwp-content%2Fuploads%2F2019%2F02%2Ffeatures.jpg"></img></a>
 
